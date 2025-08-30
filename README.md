@@ -8,5 +8,6 @@ This project is a responsive website designed for a coffee shop named Coffee Esp
 HTML5 and CSS3
 
 <h2>Preview</h2>
+
 ![](ekran.gif)
 
