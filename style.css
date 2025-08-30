@@ -76,8 +76,8 @@ section{
 
 .heading span{
     color: var(--main-color);
-
 }
+
 /* *Header */
 header{
     background-color: var(--bg-color);
@@ -459,19 +459,6 @@ footer .social i {
     display: grid;
     place-items: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* *Media Queries */
 @media (max-width: 900px) {
